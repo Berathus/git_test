@@ -1,0 +1,1 @@
+This is Bera's first git project
